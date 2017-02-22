@@ -1,0 +1,12 @@
+Items Monsters	More		David E. Gervais
+battle Backgrounds		Trent Gamblin
+potions				sunburn
+door				sujit1717
+wings				nazzyc
+sign				nemisys
+
+public domain
+shield				http://opengameart.org/content/round-shield-40x40
+large potions 			http://opengameart.org/content/potions-svg					
+
+character http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/#
